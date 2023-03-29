@@ -1,0 +1,32 @@
+ git add .
+  845  git status
+  846  git commit --help
+  847  git commit -m "moday lecture"
+  848  git status
+  849  git commit -m "test"
+  850  git status
+  851  git branch -M main
+  852  git config --global unit.defaultbranch main
+  853  git status
+  854  git status
+  855  git status
+  856  git add .
+  857  git status
+  858  git commit -m "my second commit"
+  859  git log
+  866  git checkout -b test
+  867  git add .
+  868  git commit -m "my third commit"
+  869  git status
+  870  git checkout main
+  871  git checkout test
+  872  git log
+  873  git checkout main
+  874  git branch
+  875  git merge test
+  876  git log
+  877  clear
+  878  git remote add origin https://github.com/bolade04/gitdemo.git
+  879  git push -u origin main
+  880  git push -u origin test
+  881  git status
