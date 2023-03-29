@@ -1,0 +1,13 @@
+Ctrl + s # save command
+Ctrl + z # undo command
+Ctrl + a # highlight all
+Ctrl + c # copy command
+new-item test.txt # create file in powershell
+
+# steps
+untracked file -- add -- commit -- push
+
+# git add .
+# git commit --help
+
+#
